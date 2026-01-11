@@ -1,10 +1,13 @@
 # MLH-Hackweek-Challenge
 
 ## DESCRIPTION:
-The Daily Life Co-Pilot
+Object Oriented Pet
 Objective
 
-    Use Google Gemini or a similar tool to build a simple helper that solves one specific daily task.
-    Examples: A tool that takes a messy photo of your fridge and generates a 3-meal recipe plan, or a script that reads your school syllabus and adds all deadlines to a calendar.
-    Link us to your project to earn points!
+    Build a digital pet that has its own personality and needs.
+    Create a Pet class. Every pet should have a name, hunger level, and happiness level.
+    Add functions like feed(), play(), and getStatus()
+    Link us to the project to earn points!
+
+
 
